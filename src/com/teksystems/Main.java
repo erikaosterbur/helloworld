@@ -23,5 +23,8 @@ public class Main {
         System.out.println("the area for the circle of radius "
                 + radius + " is " + area);
 
+        System.out.println("the area for the circle of radius "
+                + radius + " is " + area);
+
     }
 }
